@@ -20,5 +20,3 @@ Pod, Deployment, Service, ConfigMap, Ingress 등
 - 실전 환경 대비 명령어 & YAML 실습
 - Pod → Service → Deployment → Ingress 흐름 익히기
 - 클러스터 실습 파일 체계적으로 정리
-
-> 이 저장소는 교육 및 개인 학습용이며 예제 중심으로 구성되어 있습니다.
